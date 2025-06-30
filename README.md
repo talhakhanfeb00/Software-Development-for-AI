@@ -8,5 +8,6 @@ Credit Card
 Project 2 - NanoGPT Architecture
 - This one focuses on modifying NanoGPT for vision related tasks using two datasets.
 
-Project 3
+Project 3 - Linear LTSF
+This one uses linear ltsf for time series forecasting to predict time series which is very far from the future.
 
